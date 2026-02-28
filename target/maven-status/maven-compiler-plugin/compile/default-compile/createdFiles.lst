@@ -1,0 +1,5 @@
+com\example\thrishi\ThrishiApplication.class
+com\example\thrishi\controller\EmployeeController.class
+com\example\thrishi\entity\Employee.class
+com\example\thrishi\repository\EmployeeRepository.class
+com\example\thrishi\service\EmployeeService.class
